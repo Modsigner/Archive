@@ -1,0 +1,104 @@
+body {
+  font-family: 'Almarai', sans-serif;
+  width:100%;
+  background:#FFF;
+  margin:0;
+  padding:0;
+  text-align:center;
+  font:x-small/1.5em "Trebuchet MS",Verdana,Arial,Sans-serif;
+  }
+
+
+
+  
+.navlook {
+    margin:0;
+    padding:0;
+    position:fixed;
+    top:0;
+    width:100%;
+    height:60px;
+    float:right;
+    background-color:#4600bf;
+    border-bottom:2px solid #EFF5FB;
+}
+
+.navfont {
+    float:right;
+    height:60px;
+    color:#fff;
+    font-family: 'Almarai', sans-serif;
+    font-size:15px;
+    margin-top:22px;
+    list-style-type:none;
+    font-weight: bold;
+}
+
+.headbar {
+    height:120px;
+    background-color:#E0E6F8;
+}
+
+.titletext {
+    padding-top:50px;
+    font-family: 'Almarai', sans-serif;
+    font-size:37px;
+    color:#4600bf;
+}
+
+
+
+.headesc {
+    margin-top:2px;
+    padding-top:6px;
+    width:100%;
+    height:40px;   border-bottom:1px solid #4600bf;
+    background-color:#E0E6F8;
+}
+
+.descext {
+    margin-top:10px;
+    font-family: 'Almarai', sans-serif;
+    font-size:13px;
+    color:#4600bf;
+    
+}
+
+.marquee {
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 4s;
+}
+
+
+
+.postlink {
+    width:98%;
+    height:50px;
+}
+
+.post {
+    width:100%;
+    height:50px;
+    background-color:#E0E6F8;
+    
+}
+
+.post-title {
+    float:right;
+    background-color:#E0E6F8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
